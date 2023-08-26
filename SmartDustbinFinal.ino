@@ -1,4 +1,4 @@
-int a;
+int a;  
 float distance;
 #include <Servo.h>
 #include <SPI.h>
