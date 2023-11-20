@@ -1,5 +1,5 @@
-# smart_trash
-Your smart dustbin project is a creative and practical solution to address waste management and sanitation issues in urban areas. Here's an elaboration on the components and functionality of your project:
+# Smart_trash
+This smart dustbin project is a creative and practical solution to address waste management and sanitation issues in urban areas. Here's an elaboration on the components and functionality of your project:
 
 Components Used:
 
